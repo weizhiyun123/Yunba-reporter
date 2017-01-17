@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/xiongyitian/Yunba-reporter/issues"
   },
-  "homepage": "https://github.com/xiongyitian/Yunba-reporter#readme"
+  "homepage": "https://github.com/xiongyitian/Yunba-reporter#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
