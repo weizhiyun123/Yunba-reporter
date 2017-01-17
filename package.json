@@ -1,0 +1,22 @@
+{
+  "name": "reporter",
+  "version": "1.0.0",
+  "description": "A socket.io client for report API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xiongyitian/Yunba-reporter.git"
+  },
+  "keywords": [
+    "reporter"
+  ],
+  "author": "Brad Xiong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiongyitian/Yunba-reporter/issues"
+  },
+  "homepage": "https://github.com/xiongyitian/Yunba-reporter#readme"
+}
